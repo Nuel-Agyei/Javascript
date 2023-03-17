@@ -16,5 +16,5 @@ console.log(country);
 let continent = 'Africa';
 console.log(continent);
 
-let population = '1000';
+let population = 'One thousand';
 console.log(population);
