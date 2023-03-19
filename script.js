@@ -24,3 +24,5 @@ console.log(javascriptIsFun);
 console.log(typeof 'Melody')
 
 javascriptIsFun = 'YES!';  
+
+const birthyear = 1991;
