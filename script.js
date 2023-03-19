@@ -19,14 +19,22 @@
 // let population = 'One thousand';
 // console.log(population);
 
-let javascriptIsFun = true;
-console.log(javascriptIsFun);
-console.log(typeof 'Melody')
+// let javascriptIsFun = true;
+// console.log(javascriptIsFun);
+// console.log(typeof 'Melody')
 
-javascriptIsFun = 'YES!';  
+// javascriptIsFun = 'YES!';  
 
-const birthYear = 1991;
-console.log (birthYear);
+// const birthYear = 1991;
+// console.log (birthYear);
 
-var job = 'Programmer';
-job = 'Weed Student'; 
+// var job = 'Programmer';
+// job = 'Weed Student'; 
+
+
+const ageNuel = 2026 - 2003;
+const ageMelody = 2026 - 2004;
+console.log (ageNuel, ageMelody);
+
+console.log(ageNuel * 2, ageMelody/2);
+
