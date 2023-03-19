@@ -26,4 +26,7 @@ console.log(typeof 'Melody')
 javascriptIsFun = 'YES!';  
 
 const birthYear = 1991;
-console.log (birthYear)
+console.log (birthYear);
+
+var job = 'Programmer';
+job = 'Weed Student'; 
