@@ -38,3 +38,12 @@ console.log (ageNuel, ageMelody);
 
 console.log(ageNuel * 2, ageMelody/2);
 
+let x = 10 + 5;
+x += 10;
+x *= 4;
+console.log(x);
+
+//comparason operator
+console.log(ageNuel > ageMelody);
+console.log(ageMelody >= 18);
+
