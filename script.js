@@ -96,3 +96,7 @@ if(isOldEnough) {
 } else {
  console.log('Unsatisfied minimum requirements')
 }
+
+
+//Type conversion and coercion
+
