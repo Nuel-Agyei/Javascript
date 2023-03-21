@@ -76,4 +76,11 @@ const nuel = "I'm"+ secondName
 
 const nuelNew = `I'm ${secondName} `
 
+//taking decisions
 
+const age = 19;
+const isOldEnough = age >= 18;
+
+if(isOldEnough) {
+ console.log('Approved')
+}
