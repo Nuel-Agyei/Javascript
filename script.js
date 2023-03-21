@@ -62,7 +62,17 @@ console.log(bmiNuel);
 
 console.log(bmiMel);
 
+
 console.log(bmiMel > bmiNuel);
+
+if(bmiMel > bmiNuel){
+    console.log("She's bigger than me")
+} else{
+    console.log("It's a lie!")
+}
+
+
+
 
 //Strings and template
 
