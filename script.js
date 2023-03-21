@@ -78,9 +78,11 @@ const nuelNew = `I'm ${secondName} `
 
 //taking decisions
 
-const age = 19;
+const age = 16;
 const isOldEnough = age >= 18;
 
 if(isOldEnough) {
  console.log('Approved')
+} else {
+ console.log('Unsatisfied minimum requirements')
 }
