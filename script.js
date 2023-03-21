@@ -100,3 +100,7 @@ if(isOldEnough) {
 
 //Type conversion and coercion
 
+const inputYear = '2003 ';
+console.log(Number(inputYear));
+console.log(Number(inputYear) + 18)
+
