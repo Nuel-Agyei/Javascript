@@ -98,9 +98,17 @@ if(isOldEnough) {
 }
 
 
-//Type conversion and coercion
+//Type conversion 
 
 const inputYear = '2003 ';
 console.log(Number(inputYear));
 console.log(Number(inputYear) + 18)
+
+
+//Type coercion
+ console.log('I am' + 23 + 'years old');
+ console.log('23' - '10' - 3);
+ console.log('23'/'2')
+ console.log('23'>'18');
+
 
