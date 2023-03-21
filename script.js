@@ -67,4 +67,13 @@ console.log(bmiMel > bmiNuel);
 //Strings and template
 
 
+const secondName = 'Nuel';
+const work = 'Student';
+const dob = 2003;
+const year = 2023;
+
+const nuel = "I'm"+ secondName 
+
+const nuelNew = `I'm ${secondName} `
+
 
