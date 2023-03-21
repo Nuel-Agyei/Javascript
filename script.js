@@ -47,6 +47,8 @@ console.log(x);
 console.log(ageNuel > ageMelody);
 console.log(ageMelody >= 18);
 
+//challenge
+
 const heightNuel =1.72;
 const massNuel =56;
 
@@ -61,6 +63,8 @@ console.log(bmiNuel);
 console.log(bmiMel);
 
 console.log(bmiMel > bmiNuel);
+
+//Strings and template
 
 
 
