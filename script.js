@@ -128,3 +128,7 @@
 
 
 //Boolean Logic
+
+const issaxy= true;
+const ispetite = true;
+
