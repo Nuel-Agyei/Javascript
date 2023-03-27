@@ -200,5 +200,6 @@ if (month === 'Jan'){
 } else if(month === 'June'){
     console.log('ehh alright')
 }else {
-    console.log('Ok');
+    console.log('OK');
 }
+
