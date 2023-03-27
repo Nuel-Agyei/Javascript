@@ -130,5 +130,18 @@
 //Boolean Logic
 
 const issaxy= true;
-const ispetite = true;
+const ispetite = false;
+
+console.log(issaxy && ispetite); //And
+console.log(issaxy || ispetite); //Or
+console.log(!issaxy); //Not
+
+const shouldride = ispetite && issaxy;
+
+if (issaxy || ispetite) {
+    console.log('Melody is good enough');
+} else{
+    console.log('Not good enough');
+}
+
 
