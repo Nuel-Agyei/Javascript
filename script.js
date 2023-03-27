@@ -147,12 +147,15 @@
 
 //second project challenge 
 
-const scoreDolphin = (96+ 108 +89)/3;
-const scoreKoalas = (88 + 91 + 110)/3;
-console.log(scoreDolphin, scoreKoalas);
+// const scoreDolphin = (96+ 108 +89)/3;
+// const scoreKoalas = (88 + 91 + 110)/3;
+// console.log(scoreDolphin, scoreKoalas);
 
-if (scoreDolphin > scoreKoalas){
-    console.log('Dolphins win Trophy');
-} else{
-    console.log('Koalas win');
-}
+// if (scoreDolphin > scoreKoalas){
+//     console.log('Dolphins win Trophy');
+// } else{
+//     console.log('Koalas win');
+// }
+
+
+//Switch statement
