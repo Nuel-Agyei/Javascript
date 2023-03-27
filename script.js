@@ -117,11 +117,14 @@
 
 //Equality operator
 
-const age = 18;
-if(age === 18){
-    console.log("You're an adult (This one is strict. Does not perfrom type coercion)")
-}
+// const age = 18;
+// if(age === 18){
+//     console.log("You're an adult (This one is strict. Does not perfrom type coercion)")
+// }
 
-if(age == 18){
-    console.log('Adult you are(Is not strict. Performs type coercion)');
-}
+// if(age == 18){
+//     console.log('Adult you are(Is not strict. Performs type coercion)');
+// }
+
+
+//Boolean Logic
