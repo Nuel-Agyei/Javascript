@@ -159,3 +159,46 @@
 
 
 //Switch statement
+
+const day = 'Monday';
+
+switch (day) {
+    case 'Monday':
+        console.log('Meditate');
+        console.log('Go to coding class');
+        break;
+    case 'Tuesday':
+    console.log('Prepare theory videos');
+        break;
+    case 'Wednesday':
+            console.log('Do something');
+            break;
+    case 'Thursday' :
+    case 'Friday' :
+        console.log('Another thing you must do'); 
+        break;
+    case 'Saturday' :
+    case 'Sunday' :
+        console.log('Rest and leisurely learning'); 
+        break;  
+        default:
+            console.log('Not Valid');
+}
+
+let month = 'May';
+
+if (month === 'Jan'){
+    console.log('Oh sh*t');
+} else if (month === 'Feb'){
+    console.log('Damn!');
+} else if (month === 'Mar'){
+    console.log('Oh wow');
+} else if(month === 'Apr'){
+    console.log('hhh');
+} else if(month === 'May'){
+    console.log('Yay!');
+} else if(month === 'June'){
+    console.log('ehh alright')
+}else {
+    console.log('Ok');
+}
