@@ -129,19 +129,30 @@
 
 //Boolean Logic
 
-const issaxy= true;
-const ispetite = false;
+// const issaxy= true;
+// const ispetite = false;
 
-console.log(issaxy && ispetite); //And
-console.log(issaxy || ispetite); //Or
-console.log(!issaxy); //Not
+// console.log(issaxy && ispetite); //And
+// console.log(issaxy || ispetite); //Or
+// console.log(!issaxy); //Not
 
-const shouldride = ispetite && issaxy;
+// const shouldride = ispetite && issaxy;
 
-if (issaxy || ispetite) {
-    console.log('Melody is good enough');
+// if (issaxy || ispetite) {
+//     console.log('Melody is good enough');
+// } else{
+//     console.log('Not good enough');
+// }
+
+
+//second project challenge 
+
+const scoreDolphin = (96+ 108 +89)/3;
+const scoreKoalas = (88 + 91 + 110)/3;
+console.log(scoreDolphin, scoreKoalas);
+
+if (scoreDolphin > scoreKoalas){
+    console.log('Dolphins win Trophy');
 } else{
-    console.log('Not good enough');
+    console.log('Koalas win');
 }
-
-
