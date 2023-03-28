@@ -208,4 +208,15 @@
 
 const age = 23;
 age>= 18 ? console.log('I like gurls!'):
-console.log('I like gurls!');
+console.log('I like othe things!');
+
+const drink = age >= 18 ? 'Wine' : 'Water';
+console.log(drink); 
+
+let drink2;
+if (age >= 18) {
+    drink2 = 'wine'
+} else {
+    drink2 = 'Kalyppo'
+}
+
