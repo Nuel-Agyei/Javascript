@@ -220,7 +220,7 @@ if (age >= 18) {
     drink2 = 'Kalyppo'
 }
 
-let price = 500;
+let price = 300;
 let tip = (Number/100) *price
 
 if (price >= 50 && 300){
