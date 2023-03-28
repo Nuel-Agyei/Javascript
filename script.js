@@ -220,3 +220,15 @@ if (age >= 18) {
     drink2 = 'Kalyppo'
 }
 
+let price = 500;
+let tip = (Number/100) *price
+
+if (price >= 50 && 300){
+    tip = (15/100)*price
+} else{
+    tip = (20/100)*price
+}
+console.log(tip);
+
+
+
