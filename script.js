@@ -220,10 +220,12 @@ if (age >= 18) {
     drink2 = 'Kalyppo'
 }
 //Javascript challenge
-let price = 300;
+let price = 200;
 let tip = (Number/100) *price
 
-
+let tip2 = price >=50 &&  price <=300 ? price * .15 :
+price * .2;
+console.log(tip2);
 
 if (price >= 50 && 300){
     tip = (15/100)*price
